@@ -22,3 +22,6 @@ jobs:
 
           plugin-isocalender: yes
           plugin_isocalander_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
